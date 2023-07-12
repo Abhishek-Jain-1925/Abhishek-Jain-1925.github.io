@@ -43,7 +43,7 @@ Welcome to my personal portfolio! 🎉🚀 This portfolio showcases my skills, p
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Apache License](LICENSE).
 
 Thank you for visiting my portfolio! I look forward to connecting with you.
 
